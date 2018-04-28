@@ -1,0 +1,32 @@
+[
+  {
+    "country": "IL",
+    "name": "Tel Aviv",
+    "lat": "32.08088",
+    "lng": "34.78057"
+  },
+  {
+  "country": "IL",
+  "name": "Holon",
+  "lat": "32.01034",
+  "lng": "34.77918"
+  },
+  {
+  "country": "IL",
+  "name": "Ganei Tikva",
+  "lat": "32.05971",
+  "lng": "34.8732"
+  },
+  {
+  "country": "IL",
+  "name": "Gedera",
+  "lat": "31.81456",
+  "lng": "34.77998"
+  },
+  {
+  "country": "US",
+  "name": "New York",
+  "lat": "44.31246",
+  "lng": "-94.46053"
+  }
+]
